@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi this is Lucius(李胜锐) 👋
 
 <!--
 **Lucius-lsr/Lucius-lsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucius-lsr)](https://github.com/Lucius-lsr/github-readme-stats)
+- 🌱 I’m currently learning in Tsinghua University
+- 📫 How to reach me: lisr462114286@gmail.com
+- Find me in Google Scholar: https://scholar.google.com/citations?user=_ivNaG-zRNMC&hl=en&oi=ao
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucius-lsr&layout=compact)](https://github.com/Lucius-lsr/github-readme-stats)
+![Lucius's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucius-lsr&show_icons=true)
